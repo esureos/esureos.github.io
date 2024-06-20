@@ -6,7 +6,7 @@
   <link href="https://esureos.github.io/atom.xml" rel="self"/>
   
   <link href="https://esureos.github.io/"/>
-  <updated>2024-06-15T10:21:27.017Z</updated>
+  <updated>2024-06-20T01:26:10.086Z</updated>
   <id>https://esureos.github.io/</id>
   
   <author>
@@ -15,6 +15,51 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>米游社存在问题评估</title>
+    <link href="https://esureos.github.io/posts/4252010e.html"/>
+    <id>https://esureos.github.io/posts/4252010e.html</id>
+    <published>2024-06-20T01:05:12.000Z</published>
+    <updated>2024-06-20T01:26:10.086Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="无用设计（待评估）"><a href="#无用设计（待评估）" class="headerlink" title="无用设计（待评估）"></a><strong>无用设计（待评估）</strong></h1><h1 id="不完善功能（待评估）"><a href="#不完善功能（待评估）" class="headerlink" title="不完善功能（待评估）"></a><strong>不完善功能（待评估）</strong></h1><pre><code> - 上传图片限制最大20MB - 上传视频无法后台上传校验。后台上传并校验大体积视频便于同时编辑文字内容。同时建议视频及图片先上传到米游社本地草稿箱然后再上传到云端（本功能建议提供开关）。 - 合集帖子有上限，且上限才200。 - 评论区字数上限，且楼中楼不能上传图片。 - 评论区楼层同楼只能上传一张图片，且如上，楼中楼不能上传图片。 - 上传视频最大限2GB - 上传视频需要自上传封面，不能自动截取第一帧或选取特定帧做封面 - 评论区粘贴链接不可点击（蓝链） - 对于pc网页端，明明是网页却不能用webp作为视频封面呢 - 个人评论不能检索 - 手机端不可编辑折叠 - 折叠区域链接不可定义 - pc网页端评论不能快捷发送，如Ctrl+Enter，Shift+Enter或Alt+Enter - pc网页端不能针对个人发帖或收藏等内容检索 - 无法修改已发送评论 - 在全局水印设置之外，难道不能在每次上传图片时定义是否添加水印么 - 头像挂件去不掉</code></pre><p><strong>以下，我觉得单独帖更容易说明</strong></p><p>当我想要找客服界面</p><p>2024-03-11 Mon. 3rd<br>这个被🔒了，无需在意</p><p>啊哦~数据迷路了…&gt;_&lt;</p><h1 id="暂无功能（待评估）"><a href="#暂无功能（待评估）" class="headerlink" title="暂无功能（待评估）"></a><strong>暂无功能（待评估）</strong></h1><pre><code> - 帖子批量管理（移动，删除，归档） - 用户自建话题 - 别野外部直播 - 关闭首页综合频道 - 转发并评论 - 转发评论 - （被）删稿退档到（本地）草稿箱，避免重复编辑，重复上传。&#123;你是没有还是说等级森严，只有创作者才配拥有这权利，我不清楚，毕竟这功能没有我才觉得稀奇[翻译：如果确实没有，那你就是不会做社区（包括上面的“帖子批量管理”，我才不管你是不会做，还是明知却不给），不会做就不要做]&#125; - 上传附件（虽然可能不大用的上，也不大可能给，但应该比塞个3d引擎进来要实用） - 对于被系统或版主删帖删图删评等被删除事件应提供对于单号和工号，对于被楼主删除的事件应提供楼主昵称 - 网页版无帖子转发功能</code></pre><p><a href="https://m.miyoushe.com/dby/#/collection/2453079">附合集</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;无用设计（待评估）&quot;&gt;&lt;a href=&quot;#无用设计（待评估）&quot; class=&quot;headerlink&quot; title=&quot;无用设计（待评估）&quot;&gt;&lt;/a&gt;&lt;strong&gt;无用设计（待评估）&lt;/strong&gt;&lt;/h1&gt;&lt;h1 id=&quot;不完善功能（待评估）&quot;&gt;&lt;a href=</summary>
+      
+    
+    
+    
+    <category term="米哈游" scheme="https://esureos.github.io/categories/%E7%B1%B3%E5%93%88%E6%B8%B8/"/>
+    
+    <category term="米游社" scheme="https://esureos.github.io/categories/%E7%B1%B3%E5%93%88%E6%B8%B8/%E7%B1%B3%E6%B8%B8%E7%A4%BE/"/>
+    
+    
+    <category term="米哈游" scheme="https://esureos.github.io/tags/%E7%B1%B3%E5%93%88%E6%B8%B8/"/>
+    
+    <category term="米游社" scheme="https://esureos.github.io/tags/%E7%B1%B3%E6%B8%B8%E7%A4%BE/"/>
+    
+    <category term="问题评估" scheme="https://esureos.github.io/tags/%E9%97%AE%E9%A2%98%E8%AF%84%E4%BC%B0/"/>
+    
+    <category term="产品反馈" scheme="https://esureos.github.io/tags/%E4%BA%A7%E5%93%81%E5%8F%8D%E9%A6%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>吃狗肉</title>
+    <link href="https://esureos.github.io/posts/d716a765.html"/>
+    <id>https://esureos.github.io/posts/d716a765.html</id>
+    <published>2024-06-15T13:43:46.000Z</published>
+    <updated>2024-06-19T08:18:08.829Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
